@@ -1,0 +1,16 @@
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+
+.vscode/
+*.swp
+
+*.bin
+*.huff
+*.dat
+
+.DS_Store
+Thumbs.db
